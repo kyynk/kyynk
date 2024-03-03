@@ -1,1 +1,2 @@
-now is testing git
+hi
+this is my repo
